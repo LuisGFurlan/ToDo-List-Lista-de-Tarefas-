@@ -1,16 +1,17 @@
-# projeto
+# Meu Primeiro Projeto em Flutter
 
-A new Flutter project.
+Este é o meu primeiro projeto desenvolvido com Flutter.  
+O objetivo principal é aprender os conceitos básicos da linguagem Dart e do framework Flutter, além de praticar a estruturação de interfaces e funcionalidades em aplicativos móveis.
 
-## Getting Started
+## 📱 Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Objetivo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Estudo e prática iniciais no desenvolvimento de apps com Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Status
+
+Em desenvolvimento.
